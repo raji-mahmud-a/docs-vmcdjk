@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-wn7ovx.saturadar88.online/sitemap.xml
